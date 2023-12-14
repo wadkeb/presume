@@ -1,0 +1,54 @@
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            color: rgb(29, 11, 119);
+            background-color: whitesmoke 
+
+            /* main styling for the page */
+        }
+        li {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 14px;
+            font-style: italic;
+            font-weight: normal;
+            /* styling for the subheadings */
+        }
+        a {color: red;
+        text-decoration: none;}
+        a:hover {
+            text-decoration: underline;
+          
+        }
+        a:visited{color: orangered}
+        .resumeListHeading {
+            font-weight: bolder;
+            font-style: oblique;
+        
+        }        
+        .underline {text-decoration: underline;}
+        .bold {font-weight: bold;}
+        .justify {text-align: justify;}
+
+        /* styles.css */
+.mypassion{
+    background-color: beige;
+    border-radius: 3px;
+}
+.ski{
+    width: 200px;
+    height: 100px;
+    background-color: #3498db;
+    color: #fff; 
+    text-align: center;
+    line-height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    font-family: 'Arial', sans-serif;
+}
+.boat {
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: initial;
+}
+
